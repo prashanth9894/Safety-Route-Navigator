@@ -1,0 +1,421 @@
+id,type,latitude,longitude,severity,timestamp,description
+1,Police Station,13.120058,80.2832,-10,2026-02-21 00:50,Safe Zone: Royapuram Police Station
+2,Police Station,13.0551,80.262393,-10,2026-02-21 00:50,Safe Zone: Royapettah Police Station
+3,Police Station,13.070346,80.195507,-10,2026-02-21 00:50,Safe Zone: Koyambedu Police Station
+4,Police Station,13.115569,80.157348,-10,2026-02-21 00:50,Safe Zone: Ambattur Police Station
+5,Police Station,13.010088,80.210819,-10,2026-02-21 00:50,Safe Zone: Guindy Police Station
+6,Police Station,13.040675,80.234121,-10,2026-02-21 00:50,Safe Zone: T Nagar Police Station
+7,Police Station,13.058506,80.241595,-10,2026-02-21 00:50,Safe Zone: Nungambakkam Police Station
+8,Police Station,13.0833,80.27088,-10,2026-02-21 00:50,Safe Zone: Chennai Central Police Station
+9,Police Station,13.035682,80.267957,-10,2026-02-21 00:50,Safe Zone: Mylapore Police Station
+10,Police Station,12.983238,80.241126,-10,2026-02-21 00:50,Safe Zone: Taramani Police Station
+11,Hospital,13.011223,80.231793,-5,2026-02-21 00:50,"Safe Zone: Govt. Multi Super Speciality Hospital, Omandurar"
+12,Hospital,13.082061,80.278622,-5,2026-02-21 00:50,"Safe Zone: Rajiv Gandhi Government General Hospital, Park Town"
+13,Hospital,13.046829,80.232346,-5,2026-02-21 00:50,"Safe Zone: Apollo Hospitals, Greams Road"
+14,Hospital,12.998371,80.248387,-5,2026-02-21 00:50,"Safe Zone: Fortis Malar Hospital, Adyar"
+15,Hospital,11.01819,76.956215,-5,2026-02-21 00:50,Safe Zone: Coimbatore Medical College Hospital
+16,Hospital,9.926429,78.120719,-5,2026-02-21 00:50,"Safe Zone: Rajaji Government Hospital, Madurai"
+17,CCTV Zone,13.082845,80.280892,-5,2026-02-21 00:50,Safe Zone: Chennai Central Railway Station CCTV Zone
+18,CCTV Zone,13.041314,80.234308,-5,2026-02-21 00:50,Safe Zone: T Nagar Pondy Bazaar CCTV Zone
+19,CCTV Zone,13.070718,80.195274,-5,2026-02-21 00:50,Safe Zone: Koyambedu Market CCTV Zone
+20,CCTV Zone,13.066447,80.249309,-5,2026-02-21 00:50,Safe Zone: Anna Salai CCTV Corridor
+21,CCTV Zone,13.056818,80.279183,-5,2026-02-21 00:50,Safe Zone: Marina Beach CCTV Zone
+22,CCTV Zone,13.059312,80.241958,-5,2026-02-21 00:50,Safe Zone: Nungambakkam High Road CCTV
+23,Murder,13.127064,80.288082,9,2025-04-09 20:23,Gang-related murder near Kasimedu — history sheeter involved (GCP Records)
+24,Robbery,13.118884,80.292723,9,2025-12-19 23:41,Armed robbery at Kasimedu — snatching near bus stop (NCRB Chennai Data)
+25,Murder,13.12336,80.290546,10,2024-09-07 05:24,Gang-related murder near Kasimedu — history sheeter involved (GCP Records)
+26,Drug Activity,13.124211,80.285514,10,2024-11-28 22:49,Narcotics seizure near Kasimedu — ganja/MDMA peddling zone (NCRB TN 2023)
+27,Murder,13.126349,80.294881,9,2025-02-14 13:13,Gang-related murder near Kasimedu — history sheeter involved (GCP Records)
+28,Vehicle Theft,13.118235,80.292487,8,2025-02-09 22:41,"Organised vehicle theft ring active near Kasimedu (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+29,Assault,13.117438,80.285946,7,2025-07-28 19:47,Assault reported near Kasimedu — rowdy elements involved (GCP FIR Data)
+30,Vehicle Theft,13.127565,80.28839,7,2024-08-12 23:08,"Organised vehicle theft ring active near Kasimedu (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+31,Vehicle Theft,13.114655,80.282754,7,2024-04-22 05:10,"Organised vehicle theft ring active near Kasimedu (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+32,Chain Snatching,13.122743,80.288156,8,2025-09-02 23:33,Chain snatching near commercial area in Kasimedu (NCRB TN Pattern)
+33,Drug Activity,13.126972,80.282184,10,2024-04-27 21:34,Narcotics seizure near Kasimedu — ganja/MDMA peddling zone (NCRB TN 2023)
+34,Drug Activity,13.118643,80.286696,10,2024-06-10 18:46,Narcotics seizure near Kasimedu — ganja/MDMA peddling zone (NCRB TN 2023)
+35,Chain Snatching,13.12875,80.294191,8,2025-06-03 22:55,Chain snatching near commercial area in Kasimedu (NCRB TN Pattern)
+36,Chain Snatching,13.126667,80.290123,8,2024-07-22 05:48,Chain snatching near commercial area in Kasimedu (NCRB TN Pattern)
+37,Robbery,13.128456,80.296759,10,2024-01-01 20:31,Armed robbery at Kasimedu — snatching near bus stop (NCRB Chennai Data)
+38,Murder,13.128066,80.29606,9,2024-11-10 11:15,Gang-related murder near Kasimedu — history sheeter involved (GCP Records)
+39,Vehicle Theft,13.11457,80.289776,6,2024-03-11 23:34,"Organised vehicle theft ring active near Kasimedu (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+40,Robbery,13.123756,80.29715,8,2024-06-18 13:55,Armed robbery at Kasimedu — snatching near bus stop (NCRB Chennai Data)
+41,Vehicle Theft,13.12863,80.296863,7,2025-12-07 08:19,"Organised vehicle theft ring active near Kasimedu (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+42,Assault,13.123598,80.28901,9,2025-06-13 18:15,Assault reported near Kasimedu — rowdy elements involved (GCP FIR Data)
+43,Robbery,13.115809,80.287413,8,2024-08-23 20:00,Armed robbery at Royapuram — snatching near bus stop (NCRB Chennai Data)
+44,Murder,13.120498,80.281663,10,2024-02-02 22:04,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+45,Vehicle Theft,13.114856,80.285767,6,2025-07-06 04:59,"Organised vehicle theft ring active near Royapuram (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+46,Vehicle Theft,13.117963,80.290554,8,2025-02-20 07:06,"Organised vehicle theft ring active near Royapuram (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+47,Chain Snatching,13.116069,80.284578,8,2024-02-25 20:41,Chain snatching near commercial area in Royapuram (NCRB TN Pattern)
+48,Murder,13.116842,80.283429,9,2024-04-21 11:12,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+49,Vehicle Theft,13.112643,80.280936,7,2025-04-18 11:59,"Organised vehicle theft ring active near Royapuram (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+50,Murder,13.123328,80.291695,10,2024-04-10 01:34,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+51,Murder,13.125222,80.291579,9,2024-06-19 17:30,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+52,Robbery,13.124839,80.280634,9,2024-01-03 23:16,Armed robbery at Royapuram — snatching near bus stop (NCRB Chennai Data)
+53,Assault,13.117168,80.293317,8,2025-07-23 20:31,Assault reported near Royapuram — rowdy elements involved (GCP FIR Data)
+54,Robbery,13.115147,80.293499,8,2025-08-16 21:03,Armed robbery at Royapuram — snatching near bus stop (NCRB Chennai Data)
+55,Chain Snatching,13.111315,80.287347,8,2025-05-29 23:33,Chain snatching near commercial area in Royapuram (NCRB TN Pattern)
+56,Robbery,13.125772,80.279282,8,2024-07-09 01:04,Armed robbery at Royapuram — snatching near bus stop (NCRB Chennai Data)
+57,Chain Snatching,13.11686,80.293066,7,2025-08-06 11:38,Chain snatching near commercial area in Royapuram (NCRB TN Pattern)
+58,Murder,13.111712,80.288518,10,2025-08-01 19:59,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+59,Drug Activity,13.121116,80.283027,8,2024-09-28 17:42,Narcotics seizure near Royapuram — ganja/MDMA peddling zone (NCRB TN 2023)
+60,Chain Snatching,13.117716,80.292864,8,2024-03-15 00:39,Chain snatching near commercial area in Royapuram (NCRB TN Pattern)
+61,Vehicle Theft,13.111572,80.28141,6,2024-09-28 04:22,"Organised vehicle theft ring active near Royapuram (Chennai 2nd most unsafe for car owners, NCRB 2023)"
+62,Murder,13.116312,80.280524,9,2025-07-10 21:39,Gang-related murder near Royapuram — history sheeter involved (GCP Records)
+63,Poor Lighting,13.103963,80.252686,5,2025-07-21 15:42,Poor street lighting in Vyasarpadi — increased crime risk after 8PM
+64,Robbery,13.099731,80.256235,7,2025-07-20 05:18,Bag snatching near textile/retail area in Vyasarpadi (GCP GIS-mapped hotspot)
+65,Vehicle Theft,13.106982,80.245258,5,2025-10-11 22:32,Two-wheeler theft spike in Vyasarpadi — reported to GCP
+66,Burglary,13.109985,80.255538,7,2024-04-04 20:53,House break-in reported in Vyasarpadi — South Chennai high-risk zone (NCRB 2022)
+67,Drug Activity,13.095557,80.254338,6,2025-10-14 23:10,Substance abuse reported near Vyasarpadi (NCRB TN Drug Report 2023)
+68,Assault,13.104327,80.248843,7,2024-01-10 03:56,Physical altercation near Vyasarpadi — late-night incident (GCP Records)
+69,Assault,13.104229,80.255354,6,2025-08-19 19:27,Physical altercation near Vyasarpadi — late-night incident (GCP Records)
+70,Harassment,13.100432,80.256384,6,2024-02-10 22:13,Women's safety complaint near Vyasarpadi — eve-teasing at night (Chennai Police Records)
+71,Assault,13.106171,80.247659,6,2025-07-27 22:26,Physical altercation near Vyasarpadi — late-night incident (GCP Records)
+72,Vehicle Theft,13.097973,80.256878,7,2024-06-15 23:51,Two-wheeler theft spike in Vyasarpadi — reported to GCP
+73,Harassment,13.095897,80.253785,7,2024-12-06 21:26,Women's safety complaint near Vyasarpadi — eve-teasing at night (Chennai Police Records)
+74,Poor Lighting,13.109325,80.254972,5,2024-09-30 05:44,Poor street lighting in Vyasarpadi — increased crime risk after 8PM
+75,Robbery,13.109455,80.255737,8,2024-08-15 08:58,Bag snatching near textile/retail area in Vyasarpadi (GCP GIS-mapped hotspot)
+76,Burglary,13.100383,80.254726,7,2024-08-21 10:42,House break-in reported in Vyasarpadi — South Chennai high-risk zone (NCRB 2022)
+77,Harassment,13.107252,80.28083,7,2024-10-12 16:32,Women's safety complaint near Puliyanthope — eve-teasing at night (Chennai Police Records)
+78,Burglary,13.117698,80.275579,8,2024-01-29 03:16,House break-in reported in Puliyanthope — South Chennai high-risk zone (NCRB 2022)
+79,Harassment,13.117401,80.271247,8,2024-04-21 20:22,Women's safety complaint near Puliyanthope — eve-teasing at night (Chennai Police Records)
+80,Assault,13.108982,80.282748,7,2024-04-28 17:36,Physical altercation near Puliyanthope — late-night incident (GCP Records)
+81,Harassment,13.10271,80.273977,7,2025-06-16 23:34,Women's safety complaint near Puliyanthope — eve-teasing at night (Chennai Police Records)
+82,Assault,13.117044,80.278793,8,2024-07-20 17:04,Physical altercation near Puliyanthope — late-night incident (GCP Records)
+83,Assault,13.11197,80.277614,7,2024-05-07 21:19,Physical altercation near Puliyanthope — late-night incident (GCP Records)
+84,Vehicle Theft,13.11267,80.272219,6,2025-12-14 15:08,Two-wheeler theft spike in Puliyanthope — reported to GCP
+85,Harassment,13.112639,80.273066,7,2024-06-27 20:19,Women's safety complaint near Puliyanthope — eve-teasing at night (Chennai Police Records)
+86,Burglary,13.11534,80.271862,8,2024-08-03 18:37,House break-in reported in Puliyanthope — South Chennai high-risk zone (NCRB 2022)
+87,Vehicle Theft,13.107156,80.274069,7,2025-11-22 09:30,Two-wheeler theft spike in Puliyanthope — reported to GCP
+88,Poor Lighting,13.104715,80.268357,5,2025-06-11 20:39,Poor street lighting in Puliyanthope — increased crime risk after 8PM
+89,Drug Activity,13.115095,80.279018,6,2025-11-19 15:51,Substance abuse reported near Puliyanthope (NCRB TN Drug Report 2023)
+90,Harassment,13.102391,80.270917,6,2025-05-01 20:49,Women's safety complaint near Puliyanthope — eve-teasing at night (Chennai Police Records)
+91,Robbery,13.113631,80.282076,8,2024-07-18 21:24,Bag snatching near textile/retail area in Washermanpet (GCP GIS-mapped hotspot)
+92,Burglary,13.110904,80.282497,7,2024-01-06 22:55,House break-in reported in Washermanpet — South Chennai high-risk zone (NCRB 2022)
+93,Poor Lighting,13.119455,80.275501,3,2025-12-13 19:03,Poor street lighting in Washermanpet — increased crime risk after 8PM
+94,Vehicle Theft,13.12168,80.273942,5,2024-05-16 21:42,Two-wheeler theft spike in Washermanpet — reported to GCP
+95,Vehicle Theft,13.116527,80.287201,7,2025-03-29 20:46,Two-wheeler theft spike in Washermanpet — reported to GCP
+96,Vehicle Theft,13.120289,80.280766,6,2024-06-11 21:30,Two-wheeler theft spike in Washermanpet — reported to GCP
+97,Burglary,13.119028,80.285438,7,2024-10-10 21:33,House break-in reported in Washermanpet — South Chennai high-risk zone (NCRB 2022)
+98,Burglary,13.110828,80.279038,8,2025-12-31 14:17,House break-in reported in Washermanpet — South Chennai high-risk zone (NCRB 2022)
+99,Drug Activity,13.121288,80.273289,7,2024-06-03 10:44,Substance abuse reported near Washermanpet (NCRB TN Drug Report 2023)
+100,Harassment,13.110423,80.278638,8,2024-12-04 19:26,Women's safety complaint near Washermanpet — eve-teasing at night (Chennai Police Records)
+101,Robbery,13.120326,80.278232,7,2025-08-21 23:01,Bag snatching near textile/retail area in Washermanpet (GCP GIS-mapped hotspot)
+102,Poor Lighting,13.113086,80.272094,5,2024-12-26 15:24,Poor street lighting in Washermanpet — increased crime risk after 8PM
+103,Poor Lighting,13.115612,80.283754,4,2025-09-09 22:31,Poor street lighting in Washermanpet — increased crime risk after 8PM
+104,Harassment,13.113973,80.272464,7,2024-12-10 20:51,Women's safety complaint near Washermanpet — eve-teasing at night (Chennai Police Records)
+105,Burglary,13.104641,80.245478,8,2024-05-10 23:34,House break-in reported in Perambur — South Chennai high-risk zone (NCRB 2022)
+106,Robbery,13.11147,80.248608,8,2024-03-26 20:08,Bag snatching near textile/retail area in Perambur (GCP GIS-mapped hotspot)
+107,Poor Lighting,13.104908,80.242163,4,2024-12-01 09:20,Poor street lighting in Perambur — increased crime risk after 8PM
+108,Drug Activity,13.106452,80.253219,7,2025-03-07 12:05,Substance abuse reported near Perambur (NCRB TN Drug Report 2023)
+109,Burglary,13.113984,80.238833,6,2024-12-24 10:04,House break-in reported in Perambur — South Chennai high-risk zone (NCRB 2022)
+110,Poor Lighting,13.102644,80.238496,5,2024-09-10 08:01,Poor street lighting in Perambur — increased crime risk after 8PM
+111,Vehicle Theft,13.105817,80.245577,5,2024-04-27 19:13,Two-wheeler theft spike in Perambur — reported to GCP
+112,Burglary,13.1061,80.243902,8,2025-09-12 20:47,House break-in reported in Perambur — South Chennai high-risk zone (NCRB 2022)
+113,Assault,13.114445,80.24062,6,2024-11-14 03:01,Physical altercation near Perambur — late-night incident (GCP Records)
+114,Drug Activity,13.112838,80.253331,8,2025-02-10 23:12,Substance abuse reported near Perambur (NCRB TN Drug Report 2023)
+115,Robbery,13.11305,80.248036,9,2024-04-14 21:19,Bag snatching near textile/retail area in Perambur (GCP GIS-mapped hotspot)
+116,Poor Lighting,13.111607,80.239937,5,2025-08-02 21:22,Poor street lighting in Perambur — increased crime risk after 8PM
+117,Vehicle Theft,13.112584,80.239103,6,2025-10-25 16:54,Two-wheeler theft spike in Perambur — reported to GCP
+118,Burglary,13.103689,80.253373,7,2025-10-12 22:29,House break-in reported in Perambur — South Chennai high-risk zone (NCRB 2022)
+119,Assault,13.112968,80.162741,6,2025-10-28 13:51,Physical altercation near Ambattur — late-night incident (GCP Records)
+120,Vehicle Theft,13.113438,80.164212,6,2025-08-29 13:54,Two-wheeler theft spike in Ambattur — reported to GCP
+121,Harassment,13.110463,80.158213,6,2025-04-20 20:42,Women's safety complaint near Ambattur — eve-teasing at night (Chennai Police Records)
+122,Burglary,13.106459,80.164615,7,2024-07-05 19:22,House break-in reported in Ambattur — South Chennai high-risk zone (NCRB 2022)
+123,Poor Lighting,13.111445,80.165085,4,2025-12-19 22:35,Poor street lighting in Ambattur — increased crime risk after 8PM
+124,Robbery,13.121169,80.15237,9,2025-02-20 19:48,Bag snatching near textile/retail area in Ambattur (GCP GIS-mapped hotspot)
+125,Harassment,13.113617,80.162389,8,2025-04-03 21:05,Women's safety complaint near Ambattur — eve-teasing at night (Chennai Police Records)
+126,Drug Activity,13.11247,80.154893,6,2025-11-10 20:30,Substance abuse reported near Ambattur (NCRB TN Drug Report 2023)
+127,Vehicle Theft,13.1115,80.166946,7,2025-07-17 16:44,Two-wheeler theft spike in Ambattur — reported to GCP
+128,Burglary,13.110906,80.154689,7,2024-07-16 15:47,House break-in reported in Ambattur — South Chennai high-risk zone (NCRB 2022)
+129,Vehicle Theft,13.108962,80.154462,7,2025-05-10 13:37,Two-wheeler theft spike in Ambattur — reported to GCP
+130,Poor Lighting,13.115549,80.166688,5,2024-07-17 15:23,Poor street lighting in Ambattur — increased crime risk after 8PM
+131,Harassment,13.106226,80.159546,7,2024-10-07 01:03,Women's safety complaint near Ambattur — eve-teasing at night (Chennai Police Records)
+132,Vehicle Theft,13.117159,80.15302,6,2025-05-17 03:00,Two-wheeler theft spike in Ambattur — reported to GCP
+133,Drug Activity,13.12851,80.209048,5,2024-07-07 07:16,Suspicious activity reported near Kolathur
+134,Isolated Area,13.134154,80.208411,3,2024-03-16 07:09,Deserted stretch near Kolathur — women reported feeling unsafe after dark (21% survey)
+135,Theft,13.136186,80.203363,6,2024-09-11 09:35,Petty theft near market area in Kolathur
+136,Isolated Area,13.130538,80.211895,5,2025-06-19 18:28,Deserted stretch near Kolathur — women reported feeling unsafe after dark (21% survey)
+137,Isolated Area,13.134763,80.217841,4,2024-11-08 07:39,Deserted stretch near Kolathur — women reported feeling unsafe after dark (21% survey)
+138,Harassment,13.131008,80.206234,5,2024-03-24 11:15,Sexual harassment reported near Kolathur (Chennai Women's Safety Survey 2025)
+139,Theft,13.122201,80.202043,6,2025-04-06 21:18,Petty theft near market area in Kolathur
+140,Harassment,13.12561,80.206523,5,2025-04-09 08:43,Sexual harassment reported near Kolathur (Chennai Women's Safety Survey 2025)
+141,Theft,13.133605,80.212001,5,2025-11-08 12:27,Petty theft near market area in Kolathur
+142,Robbery,13.051597,80.258384,9,2024-09-29 22:04,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+143,Robbery,13.060682,80.265521,7,2025-08-05 23:28,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+144,Robbery,13.059019,80.267196,8,2024-10-05 19:31,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+145,Burglary,13.057569,80.270231,6,2024-11-26 20:01,House break-in reported in Royapettah — South Chennai high-risk zone (NCRB 2022)
+146,Robbery,13.063391,80.269375,7,2025-08-12 20:01,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+147,Poor Lighting,13.061143,80.26522,5,2024-06-28 18:41,Poor street lighting in Royapettah — increased crime risk after 8PM
+148,Burglary,13.050904,80.265365,7,2025-10-12 22:05,House break-in reported in Royapettah — South Chennai high-risk zone (NCRB 2022)
+149,Burglary,13.054534,80.261137,7,2024-04-17 22:21,House break-in reported in Royapettah — South Chennai high-risk zone (NCRB 2022)
+150,Burglary,13.055928,80.266601,8,2025-02-14 22:35,House break-in reported in Royapettah — South Chennai high-risk zone (NCRB 2022)
+151,Robbery,13.049409,80.260038,8,2024-04-28 23:25,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+152,Poor Lighting,13.061199,80.256018,5,2025-07-09 18:03,Poor street lighting in Royapettah — increased crime risk after 8PM
+153,Harassment,13.053788,80.268103,8,2025-10-02 18:03,Women's safety complaint near Royapettah — eve-teasing at night (Chennai Police Records)
+154,Harassment,13.056788,80.270843,7,2025-03-24 22:31,Women's safety complaint near Royapettah — eve-teasing at night (Chennai Police Records)
+155,Robbery,13.06357,80.265742,7,2024-09-02 21:19,Bag snatching near textile/retail area in Royapettah (GCP GIS-mapped hotspot)
+156,Drug Activity,13.037636,80.261091,4,2024-04-26 20:07,Suspicious activity reported near Mylapore
+157,Theft,13.043722,80.26427,5,2025-12-23 14:26,Petty theft near market area in Mylapore
+158,Isolated Area,13.0327,80.26842,4,2025-01-27 12:58,Deserted stretch near Mylapore — women reported feeling unsafe after dark (21% survey)
+159,Drug Activity,13.040741,80.261784,6,2024-03-12 14:49,Suspicious activity reported near Mylapore
+160,Isolated Area,13.043748,80.267724,4,2024-01-03 15:46,Deserted stretch near Mylapore — women reported feeling unsafe after dark (21% survey)
+161,Poor Lighting,13.038079,80.270159,4,2024-06-01 20:34,Inadequate lighting near MRTS station at Mylapore — unsafe for women at night
+162,Isolated Area,13.034119,80.271806,4,2025-01-21 20:59,Deserted stretch near Mylapore — women reported feeling unsafe after dark (21% survey)
+163,Poor Lighting,13.044492,80.263421,2,2025-01-27 13:54,Inadequate lighting near MRTS station at Mylapore — unsafe for women at night
+164,Isolated Area,13.033891,80.267168,3,2025-01-25 18:42,Deserted stretch near Mylapore — women reported feeling unsafe after dark (21% survey)
+165,Poor Lighting,12.989693,80.243025,5,2024-02-07 04:37,Poor street lighting in Taramani — increased crime risk after 8PM
+166,Drug Activity,12.987987,80.242145,6,2025-06-22 22:00,Substance abuse reported near Taramani (NCRB TN Drug Report 2023)
+167,Assault,12.98056,80.245577,6,2024-06-07 02:50,Physical altercation near Taramani — late-night incident (GCP Records)
+168,Drug Activity,12.983972,80.24146,7,2024-03-23 22:54,Substance abuse reported near Taramani (NCRB TN Drug Report 2023)
+169,Assault,12.98008,80.240167,8,2025-05-14 22:02,Physical altercation near Taramani — late-night incident (GCP Records)
+170,Vehicle Theft,12.977756,80.24605,5,2024-10-21 23:47,Two-wheeler theft spike in Taramani — reported to GCP
+171,Robbery,12.989653,80.247266,8,2025-12-21 22:28,Bag snatching near textile/retail area in Taramani (GCP GIS-mapped hotspot)
+172,Harassment,12.978791,80.235563,8,2024-11-28 21:18,Women's safety complaint near Taramani — eve-teasing at night (Chennai Police Records)
+173,Drug Activity,12.980891,80.239007,7,2025-02-25 19:50,Substance abuse reported near Taramani (NCRB TN Drug Report 2023)
+174,Harassment,12.976801,80.244852,6,2025-01-26 20:15,Women's safety complaint near Taramani — eve-teasing at night (Chennai Police Records)
+175,Burglary,12.97629,80.242478,8,2024-09-17 18:42,House break-in reported in Taramani — South Chennai high-risk zone (NCRB 2022)
+176,Robbery,12.988419,80.245942,8,2024-06-10 02:22,Bag snatching near textile/retail area in Taramani (GCP GIS-mapped hotspot)
+177,Vehicle Theft,12.984223,80.241889,6,2024-09-13 18:19,Two-wheeler theft spike in Taramani — reported to GCP
+178,Harassment,12.987653,80.236806,7,2025-01-25 20:36,Women's safety complaint near Taramani — eve-teasing at night (Chennai Police Records)
+179,Poor Lighting,13.003424,80.264447,4,2025-11-05 18:17,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+180,Harassment,13.012541,80.261253,7,2024-02-20 21:53,Sexual harassment reported near Adyar (Chennai Women's Safety Survey 2025)
+181,Poor Lighting,13.008413,80.254437,2,2025-10-13 12:39,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+182,Poor Lighting,13.010789,80.26108,4,2025-11-28 10:40,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+183,Harassment,13.009041,80.253743,7,2025-03-27 07:37,Sexual harassment reported near Adyar (Chennai Women's Safety Survey 2025)
+184,Poor Lighting,13.000803,80.263354,4,2024-11-30 19:11,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+185,Theft,13.011284,80.262823,4,2025-01-09 22:32,Petty theft near market area in Adyar
+186,Poor Lighting,13.002812,80.261995,2,2025-05-08 15:47,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+187,Poor Lighting,13.006193,80.250005,2,2024-08-19 18:54,Inadequate lighting near MRTS station at Adyar — unsafe for women at night
+188,Drug Activity,13.000145,80.218913,5,2024-09-27 09:29,Suspicious activity reported near Guindy
+189,Poor Lighting,13.010684,80.216795,4,2025-01-25 17:06,Inadequate lighting near MRTS station at Guindy — unsafe for women at night
+190,Theft,12.9991,80.226748,5,2025-07-28 16:58,Petty theft near market area in Guindy
+191,Drug Activity,13.009062,80.222766,4,2025-04-20 15:41,Suspicious activity reported near Guindy
+192,Isolated Area,13.000936,80.22774,3,2024-11-07 21:07,Deserted stretch near Guindy — women reported feeling unsafe after dark (21% survey)
+193,Harassment,13.012896,80.214771,5,2025-04-09 17:42,Sexual harassment reported near Guindy (Chennai Women's Safety Survey 2025)
+194,Drug Activity,13.008097,80.224226,5,2025-02-28 09:53,Suspicious activity reported near Guindy
+195,Isolated Area,13.00523,80.227824,5,2024-02-03 17:13,Deserted stretch near Guindy — women reported feeling unsafe after dark (21% survey)
+196,Isolated Area,13.013909,80.226287,4,2024-04-11 17:34,Deserted stretch near Guindy — women reported feeling unsafe after dark (21% survey)
+197,Poor Lighting,12.97987,80.212637,2,2024-05-05 20:05,Inadequate lighting near MRTS station at Velachery — unsafe for women at night
+198,Theft,12.983732,80.225137,6,2024-02-21 16:15,Petty theft near market area in Velachery
+199,Theft,12.976783,80.222877,6,2025-07-21 12:37,Petty theft near market area in Velachery
+200,Theft,12.978757,80.211961,4,2025-09-02 06:17,Petty theft near market area in Velachery
+201,Theft,12.982143,80.222376,4,2024-04-22 06:08,Petty theft near market area in Velachery
+202,Harassment,12.98614,80.213407,6,2024-11-27 06:11,Sexual harassment reported near Velachery (Chennai Women's Safety Survey 2025)
+203,Poor Lighting,12.975528,80.216335,2,2024-04-26 08:30,Inadequate lighting near MRTS station at Velachery — unsafe for women at night
+204,Isolated Area,12.981712,80.211345,4,2025-05-30 13:39,Deserted stretch near Velachery — women reported feeling unsafe after dark (21% survey)
+205,Harassment,12.986032,80.223472,7,2025-06-17 15:29,Sexual harassment reported near Velachery (Chennai Women's Safety Survey 2025)
+206,Harassment,12.932877,80.105557,5,2025-03-12 09:31,Sexual harassment reported near Tambaram (Chennai Women's Safety Survey 2025)
+207,Isolated Area,12.931288,80.097154,3,2024-05-31 08:08,Deserted stretch near Tambaram — women reported feeling unsafe after dark (21% survey)
+208,Poor Lighting,12.927029,80.100774,4,2024-11-28 18:38,Inadequate lighting near MRTS station at Tambaram — unsafe for women at night
+209,Drug Activity,12.924159,80.101687,5,2024-04-11 09:54,Suspicious activity reported near Tambaram
+210,Drug Activity,12.930748,80.098881,6,2024-08-21 19:21,Suspicious activity reported near Tambaram
+211,Isolated Area,12.923556,80.093521,4,2025-03-13 16:42,Deserted stretch near Tambaram — women reported feeling unsafe after dark (21% survey)
+212,Poor Lighting,12.932157,80.102989,3,2025-04-30 08:05,Inadequate lighting near MRTS station at Tambaram — unsafe for women at night
+213,Harassment,12.92381,80.103913,5,2025-01-16 10:35,Sexual harassment reported near Tambaram (Chennai Women's Safety Survey 2025)
+214,Harassment,12.932206,80.100987,7,2025-11-17 09:26,Sexual harassment reported near Tambaram (Chennai Women's Safety Survey 2025)
+215,Drug Activity,13.048858,80.232867,8,2024-02-22 23:38,Substance abuse reported near T Nagar (NCRB TN Drug Report 2023)
+216,Drug Activity,13.035458,80.234219,7,2024-06-07 20:14,Substance abuse reported near T Nagar (NCRB TN Drug Report 2023)
+217,Poor Lighting,13.039402,80.235,3,2024-04-27 21:36,Poor street lighting in T Nagar — increased crime risk after 8PM
+218,Harassment,13.047322,80.241693,7,2025-09-28 20:41,Women's safety complaint near T Nagar — eve-teasing at night (Chennai Police Records)
+219,Vehicle Theft,13.043544,80.236625,5,2025-12-11 13:11,Two-wheeler theft spike in T Nagar — reported to GCP
+220,Drug Activity,13.045999,80.240845,8,2024-12-25 00:55,Substance abuse reported near T Nagar (NCRB TN Drug Report 2023)
+221,Harassment,13.044318,80.227213,8,2025-10-10 23:05,Women's safety complaint near T Nagar — eve-teasing at night (Chennai Police Records)
+222,Assault,13.037242,80.232817,8,2024-12-15 05:19,Physical altercation near T Nagar — late-night incident (GCP Records)
+223,Assault,13.046229,80.235181,7,2024-03-27 22:09,Physical altercation near T Nagar — late-night incident (GCP Records)
+224,Harassment,13.034596,80.227405,8,2025-03-29 20:31,Women's safety complaint near T Nagar — eve-teasing at night (Chennai Police Records)
+225,Vehicle Theft,13.040427,80.229549,6,2025-06-08 03:27,Two-wheeler theft spike in T Nagar — reported to GCP
+226,Robbery,13.044651,80.23559,8,2025-06-23 20:02,Bag snatching near textile/retail area in T Nagar (GCP GIS-mapped hotspot)
+227,Harassment,13.049551,80.226977,7,2024-07-28 15:13,Women's safety complaint near T Nagar — eve-teasing at night (Chennai Police Records)
+228,Poor Lighting,13.046027,80.230731,3,2024-05-02 00:47,Poor street lighting in T Nagar — increased crime risk after 8PM
+229,Burglary,13.059067,80.249521,6,2024-08-23 19:53,House break-in reported in Anna Salai — South Chennai high-risk zone (NCRB 2022)
+230,Assault,13.058153,80.254788,7,2024-02-13 18:29,Physical altercation near Anna Salai — late-night incident (GCP Records)
+231,Robbery,13.066212,80.250174,8,2025-12-27 20:18,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+232,Robbery,13.057334,80.246196,8,2025-09-24 18:44,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+233,Drug Activity,13.063987,80.242694,6,2025-03-22 20:33,Substance abuse reported near Anna Salai (NCRB TN Drug Report 2023)
+234,Robbery,13.070928,80.252933,8,2024-08-14 16:10,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+235,Robbery,13.067132,80.24949,9,2024-07-17 22:22,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+236,Drug Activity,13.072332,80.251327,8,2024-05-31 11:09,Substance abuse reported near Anna Salai (NCRB TN Drug Report 2023)
+237,Drug Activity,13.059776,80.243446,6,2025-11-02 02:49,Substance abuse reported near Anna Salai (NCRB TN Drug Report 2023)
+238,Assault,13.064423,80.25002,7,2025-08-16 18:59,Physical altercation near Anna Salai — late-night incident (GCP Records)
+239,Vehicle Theft,13.067165,80.250992,7,2025-10-04 15:28,Two-wheeler theft spike in Anna Salai — reported to GCP
+240,Robbery,13.064075,80.245845,8,2024-10-08 20:22,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+241,Vehicle Theft,13.061967,80.248231,5,2024-02-28 17:18,Two-wheeler theft spike in Anna Salai — reported to GCP
+242,Robbery,13.070828,80.254685,9,2025-09-21 20:24,Bag snatching near textile/retail area in Anna Salai (GCP GIS-mapped hotspot)
+243,Burglary,13.070269,80.199469,8,2024-02-12 18:51,House break-in reported in Koyambedu — South Chennai high-risk zone (NCRB 2022)
+244,Vehicle Theft,13.064412,80.19648,7,2025-05-28 04:03,Two-wheeler theft spike in Koyambedu — reported to GCP
+245,Burglary,13.074375,80.200198,6,2024-03-27 19:11,House break-in reported in Koyambedu — South Chennai high-risk zone (NCRB 2022)
+246,Robbery,13.072722,80.202656,7,2025-06-20 19:10,Bag snatching near textile/retail area in Koyambedu (GCP GIS-mapped hotspot)
+247,Drug Activity,13.076087,80.192999,7,2024-12-12 20:03,Substance abuse reported near Koyambedu (NCRB TN Drug Report 2023)
+248,Poor Lighting,13.071757,80.187855,5,2024-04-06 19:24,Poor street lighting in Koyambedu — increased crime risk after 8PM
+249,Drug Activity,13.07298,80.197305,7,2025-09-09 22:21,Substance abuse reported near Koyambedu (NCRB TN Drug Report 2023)
+250,Robbery,13.072018,80.201468,9,2024-11-13 23:44,Bag snatching near textile/retail area in Koyambedu (GCP GIS-mapped hotspot)
+251,Assault,13.063463,80.198141,7,2024-03-27 15:24,Physical altercation near Koyambedu — late-night incident (GCP Records)
+252,Assault,13.074411,80.197522,7,2025-12-02 22:05,Physical altercation near Koyambedu — late-night incident (GCP Records)
+253,Assault,13.068175,80.192589,8,2025-01-06 15:13,Physical altercation near Koyambedu — late-night incident (GCP Records)
+254,Drug Activity,13.064472,80.2028,7,2024-06-07 02:54,Substance abuse reported near Koyambedu (NCRB TN Drug Report 2023)
+255,Poor Lighting,13.069523,80.195436,3,2025-06-23 00:21,Poor street lighting in Koyambedu — increased crime risk after 8PM
+256,Poor Lighting,13.063497,80.192828,5,2024-06-15 07:44,Poor street lighting in Koyambedu — increased crime risk after 8PM
+257,Drug Activity,13.063939,80.235499,4,2025-01-08 13:28,Suspicious activity reported near Nungambakkam
+258,Drug Activity,13.064438,80.247341,5,2024-08-27 13:19,Suspicious activity reported near Nungambakkam
+259,Isolated Area,13.058285,80.249954,3,2025-03-27 20:49,Deserted stretch near Nungambakkam — women reported feeling unsafe after dark (21% survey)
+260,Poor Lighting,13.060447,80.241499,3,2024-06-14 12:51,Inadequate lighting near MRTS station at Nungambakkam — unsafe for women at night
+261,Drug Activity,13.066368,80.235635,4,2025-05-07 17:35,Suspicious activity reported near Nungambakkam
+262,Harassment,13.065934,80.248419,7,2024-10-18 08:48,Sexual harassment reported near Nungambakkam (Chennai Women's Safety Survey 2025)
+263,Theft,13.059589,80.243014,5,2025-03-23 08:58,Petty theft near market area in Nungambakkam
+264,Theft,13.066554,80.249688,5,2025-02-28 07:25,Petty theft near market area in Nungambakkam
+265,Drug Activity,13.056172,80.250712,5,2025-01-18 13:01,Suspicious activity reported near Nungambakkam
+266,Poor Lighting,13.058127,80.223199,2,2024-05-29 10:02,Inadequate lighting near MRTS station at Kodambakkam — unsafe for women at night
+267,Poor Lighting,13.055837,80.215021,3,2025-12-23 21:28,Inadequate lighting near MRTS station at Kodambakkam — unsafe for women at night
+268,Drug Activity,13.059194,80.213104,4,2024-08-08 10:35,Suspicious activity reported near Kodambakkam
+269,Drug Activity,13.051472,80.225219,6,2024-08-31 15:07,Suspicious activity reported near Kodambakkam
+270,Harassment,13.051417,80.225502,5,2025-04-13 08:07,Sexual harassment reported near Kodambakkam (Chennai Women's Safety Survey 2025)
+271,Isolated Area,13.053277,80.222911,5,2025-08-11 13:45,Deserted stretch near Kodambakkam — women reported feeling unsafe after dark (21% survey)
+272,Theft,13.051568,80.222637,5,2024-09-03 19:11,Petty theft near market area in Kodambakkam
+273,Harassment,13.060294,80.213883,7,2025-06-22 22:50,Sexual harassment reported near Kodambakkam (Chennai Women's Safety Survey 2025)
+274,Drug Activity,13.045025,80.226773,6,2024-02-14 18:23,Suspicious activity reported near Kodambakkam
+275,Drug Activity,10.98626,76.969316,8,2024-12-19 11:42,Substance abuse reported near Ukkadam Coimbatore (NCRB TN Drug Report 2023)
+276,Assault,10.998344,76.968463,6,2024-12-06 04:22,Physical altercation near Ukkadam Coimbatore — late-night incident (GCP Records)
+277,Vehicle Theft,10.999016,76.959501,6,2025-12-02 18:44,Two-wheeler theft spike in Ukkadam Coimbatore — reported to GCP
+278,Burglary,10.988916,76.958858,8,2025-04-13 00:12,House break-in reported in Ukkadam Coimbatore — South Chennai high-risk zone (NCRB 2022)
+279,Robbery,11.000173,76.96175,7,2024-11-13 19:52,Bag snatching near textile/retail area in Ukkadam Coimbatore (GCP GIS-mapped hotspot)
+280,Vehicle Theft,10.990053,76.968753,6,2024-07-14 14:55,Two-wheeler theft spike in Ukkadam Coimbatore — reported to GCP
+281,Poor Lighting,10.999853,76.962011,3,2024-05-07 21:27,Poor street lighting in Ukkadam Coimbatore — increased crime risk after 8PM
+282,Burglary,10.993036,76.972004,8,2024-12-13 23:31,House break-in reported in Ukkadam Coimbatore — South Chennai high-risk zone (NCRB 2022)
+283,Assault,10.991878,76.969457,7,2024-09-30 21:46,Physical altercation near Ukkadam Coimbatore — late-night incident (GCP Records)
+284,Burglary,10.99289,76.972622,6,2024-07-03 19:20,House break-in reported in Ukkadam Coimbatore — South Chennai high-risk zone (NCRB 2022)
+285,Robbery,10.991247,76.96143,7,2025-04-01 20:27,Bag snatching near textile/retail area in Ukkadam Coimbatore (GCP GIS-mapped hotspot)
+286,Harassment,10.993103,76.963854,8,2024-12-27 20:27,Women's safety complaint near Ukkadam Coimbatore — eve-teasing at night (Chennai Police Records)
+287,Drug Activity,11.00168,76.971866,8,2024-03-17 20:25,Substance abuse reported near Ukkadam Coimbatore (NCRB TN Drug Report 2023)
+288,Drug Activity,10.998818,76.967571,8,2024-02-01 04:38,Substance abuse reported near Ukkadam Coimbatore (NCRB TN Drug Report 2023)
+289,Isolated Area,11.01082,76.951576,3,2025-10-22 17:23,Deserted stretch near Gandhipuram Coimbatore — women reported feeling unsafe after dark (21% survey)
+290,Isolated Area,11.009318,76.950255,5,2025-04-05 17:23,Deserted stretch near Gandhipuram Coimbatore — women reported feeling unsafe after dark (21% survey)
+291,Isolated Area,11.017983,76.956271,3,2025-02-11 16:41,Deserted stretch near Gandhipuram Coimbatore — women reported feeling unsafe after dark (21% survey)
+292,Poor Lighting,11.024168,76.948215,2,2024-07-09 21:33,Inadequate lighting near MRTS station at Gandhipuram Coimbatore — unsafe for women at night
+293,Isolated Area,11.010684,76.960199,5,2025-12-21 20:13,Deserted stretch near Gandhipuram Coimbatore — women reported feeling unsafe after dark (21% survey)
+294,Drug Activity,11.019904,76.963778,5,2024-07-23 09:08,Suspicious activity reported near Gandhipuram Coimbatore
+295,Harassment,11.011563,76.959214,6,2024-03-30 16:42,Sexual harassment reported near Gandhipuram Coimbatore (Chennai Women's Safety Survey 2025)
+296,Poor Lighting,11.009839,76.956475,4,2024-11-03 11:45,Inadequate lighting near MRTS station at Gandhipuram Coimbatore — unsafe for women at night
+297,Theft,11.01694,76.949742,5,2024-07-24 10:15,Petty theft near market area in Gandhipuram Coimbatore
+298,Isolated Area,10.986174,76.956156,2,2025-04-23 10:39,Relatively isolated stretch near RS Puram Coimbatore — use caution at night
+299,Poor Lighting,10.985349,76.962994,1,2025-05-05 22:26,Dim lighting in residential area near RS Puram Coimbatore
+300,Isolated Area,10.98158,76.962558,4,2025-10-19 08:28,Relatively isolated stretch near RS Puram Coimbatore — use caution at night
+301,Isolated Area,10.988678,76.949053,4,2025-07-18 11:49,Relatively isolated stretch near RS Puram Coimbatore — use caution at night
+302,Theft,11.021346,77.014591,5,2024-05-07 22:09,Petty theft near market area in Peelamedu Coimbatore
+303,Poor Lighting,11.015891,77.015656,2,2024-08-18 17:33,Inadequate lighting near MRTS station at Peelamedu Coimbatore — unsafe for women at night
+304,Poor Lighting,11.01731,77.010861,2,2025-07-18 14:08,Inadequate lighting near MRTS station at Peelamedu Coimbatore — unsafe for women at night
+305,Poor Lighting,11.021836,77.008741,4,2024-06-21 10:10,Inadequate lighting near MRTS station at Peelamedu Coimbatore — unsafe for women at night
+306,Drug Activity,11.027732,77.006102,6,2025-07-31 07:52,Suspicious activity reported near Peelamedu Coimbatore
+307,Harassment,11.014027,77.010963,5,2025-08-13 14:41,Sexual harassment reported near Peelamedu Coimbatore (Chennai Women's Safety Survey 2025)
+308,Theft,11.019965,77.010924,6,2025-05-24 15:41,Petty theft near market area in Peelamedu Coimbatore
+309,Poor Lighting,11.017218,77.013618,3,2025-02-19 15:29,Inadequate lighting near MRTS station at Peelamedu Coimbatore — unsafe for women at night
+310,Harassment,11.014259,77.007734,7,2025-05-10 20:13,Sexual harassment reported near Peelamedu Coimbatore (Chennai Women's Safety Survey 2025)
+311,Drug Activity,9.914299,78.115784,8,2024-11-22 21:55,Substance abuse reported near Goripalayam Madurai (NCRB TN Drug Report 2023)
+312,Drug Activity,9.914092,78.107929,7,2025-07-29 03:15,Substance abuse reported near Goripalayam Madurai (NCRB TN Drug Report 2023)
+313,Burglary,9.91628,78.105967,6,2024-04-09 01:24,House break-in reported in Goripalayam Madurai — South Chennai high-risk zone (NCRB 2022)
+314,Poor Lighting,9.91869,78.117403,5,2024-06-12 22:59,Poor street lighting in Goripalayam Madurai — increased crime risk after 8PM
+315,Vehicle Theft,9.917003,78.11421,7,2025-05-25 23:29,Two-wheeler theft spike in Goripalayam Madurai — reported to GCP
+316,Burglary,9.919958,78.103441,7,2025-02-06 19:15,House break-in reported in Goripalayam Madurai — South Chennai high-risk zone (NCRB 2022)
+317,Harassment,9.917646,78.102809,8,2025-05-21 20:53,Women's safety complaint near Goripalayam Madurai — eve-teasing at night (Chennai Police Records)
+318,Assault,9.919529,78.110587,8,2024-04-20 18:56,Physical altercation near Goripalayam Madurai — late-night incident (GCP Records)
+319,Drug Activity,9.917852,78.108452,8,2024-02-16 17:36,Substance abuse reported near Goripalayam Madurai (NCRB TN Drug Report 2023)
+320,Vehicle Theft,9.9178,78.106618,5,2025-01-30 19:48,Two-wheeler theft spike in Goripalayam Madurai — reported to GCP
+321,Vehicle Theft,9.925205,78.111972,6,2025-09-17 03:06,Two-wheeler theft spike in Goripalayam Madurai — reported to GCP
+322,Burglary,9.924718,78.107425,7,2025-01-09 21:12,House break-in reported in Goripalayam Madurai — South Chennai high-risk zone (NCRB 2022)
+323,Vehicle Theft,9.918422,78.102644,7,2024-02-09 04:21,Two-wheeler theft spike in Goripalayam Madurai — reported to GCP
+324,Poor Lighting,9.920309,78.104383,4,2025-06-11 04:59,Poor street lighting in Goripalayam Madurai — increased crime risk after 8PM
+325,Drug Activity,9.9198,78.12765,5,2024-11-02 16:32,Suspicious activity reported near Mattuthavani Madurai
+326,Drug Activity,9.925038,78.120807,6,2025-05-01 06:23,Suspicious activity reported near Mattuthavani Madurai
+327,Poor Lighting,9.918954,78.118465,4,2024-11-11 06:38,Inadequate lighting near MRTS station at Mattuthavani Madurai — unsafe for women at night
+328,Isolated Area,9.932673,78.124326,4,2025-08-15 13:46,Deserted stretch near Mattuthavani Madurai — women reported feeling unsafe after dark (21% survey)
+329,Harassment,9.924887,78.120188,7,2025-09-26 18:09,Sexual harassment reported near Mattuthavani Madurai (Chennai Women's Safety Survey 2025)
+330,Theft,9.926361,78.123008,4,2024-07-14 06:28,Petty theft near market area in Mattuthavani Madurai
+331,Poor Lighting,9.919623,78.122848,3,2025-02-24 22:49,Inadequate lighting near MRTS station at Mattuthavani Madurai — unsafe for women at night
+332,Drug Activity,9.931165,78.123573,5,2024-03-04 10:33,Suspicious activity reported near Mattuthavani Madurai
+333,Theft,9.922401,78.122396,6,2025-06-22 18:20,Petty theft near market area in Mattuthavani Madurai
+334,Theft,9.936594,78.132477,5,2024-12-28 14:39,Petty theft near market area in Tallakulam Madurai
+335,Isolated Area,9.937317,78.131464,3,2024-11-01 13:19,Deserted stretch near Tallakulam Madurai — women reported feeling unsafe after dark (21% survey)
+336,Poor Lighting,9.925316,78.13828,4,2024-11-20 21:22,Inadequate lighting near MRTS station at Tallakulam Madurai — unsafe for women at night
+337,Drug Activity,9.926375,78.12895,6,2025-11-23 18:57,Suspicious activity reported near Tallakulam Madurai
+338,Isolated Area,9.937274,78.139874,4,2024-10-24 07:18,Deserted stretch near Tallakulam Madurai — women reported feeling unsafe after dark (21% survey)
+339,Harassment,9.936784,78.137496,6,2025-05-05 12:12,Sexual harassment reported near Tallakulam Madurai (Chennai Women's Safety Survey 2025)
+340,Drug Activity,9.936928,78.138139,5,2024-05-20 09:39,Suspicious activity reported near Tallakulam Madurai
+341,Drug Activity,9.925879,78.137717,4,2025-06-27 13:40,Suspicious activity reported near Tallakulam Madurai
+342,Theft,9.923603,78.132285,4,2025-04-28 09:43,Petty theft near market area in Tallakulam Madurai
+343,Poor Lighting,11.656383,78.148806,3,2024-06-10 17:59,Poor street lighting in Old Bus Stand Salem — increased crime risk after 8PM
+344,Burglary,11.666709,78.152095,7,2024-10-21 16:41,House break-in reported in Old Bus Stand Salem — South Chennai high-risk zone (NCRB 2022)
+345,Robbery,11.666737,78.143716,7,2024-02-08 22:11,Bag snatching near textile/retail area in Old Bus Stand Salem (GCP GIS-mapped hotspot)
+346,Burglary,11.671243,78.140581,6,2025-02-10 21:11,House break-in reported in Old Bus Stand Salem — South Chennai high-risk zone (NCRB 2022)
+347,Assault,11.670328,78.140148,7,2025-08-04 20:59,Physical altercation near Old Bus Stand Salem — late-night incident (GCP Records)
+348,Drug Activity,11.66357,78.150261,7,2025-06-20 19:08,Substance abuse reported near Old Bus Stand Salem (NCRB TN Drug Report 2023)
+349,Poor Lighting,11.663788,78.143085,5,2024-04-25 16:46,Poor street lighting in Old Bus Stand Salem — increased crime risk after 8PM
+350,Burglary,11.660416,78.142979,8,2024-12-11 21:36,House break-in reported in Old Bus Stand Salem — South Chennai high-risk zone (NCRB 2022)
+351,Assault,11.659108,78.153698,6,2025-02-19 22:32,Physical altercation near Old Bus Stand Salem — late-night incident (GCP Records)
+352,Drug Activity,11.662713,78.141526,6,2024-05-23 18:59,Substance abuse reported near Old Bus Stand Salem (NCRB TN Drug Report 2023)
+353,Harassment,11.660473,78.143768,6,2024-09-30 23:19,Women's safety complaint near Old Bus Stand Salem — eve-teasing at night (Chennai Police Records)
+354,Vehicle Theft,11.665466,78.144185,7,2025-01-03 21:03,Two-wheeler theft spike in Old Bus Stand Salem — reported to GCP
+355,Assault,11.663746,78.142555,6,2025-12-03 19:57,Physical altercation near Old Bus Stand Salem — late-night incident (GCP Records)
+356,Assault,11.667345,78.150219,7,2024-10-29 17:14,Physical altercation near Old Bus Stand Salem — late-night incident (GCP Records)
+357,Theft,11.671651,78.15728,4,2025-09-12 17:26,Petty theft near market area in Suramangalam Salem
+358,Drug Activity,11.676118,78.162832,5,2024-08-11 13:43,Suspicious activity reported near Suramangalam Salem
+359,Drug Activity,11.672408,78.158451,4,2025-01-05 08:58,Suspicious activity reported near Suramangalam Salem
+360,Drug Activity,11.664988,78.158762,4,2025-06-01 12:36,Suspicious activity reported near Suramangalam Salem
+361,Drug Activity,11.666633,78.163672,4,2025-03-28 09:43,Suspicious activity reported near Suramangalam Salem
+362,Theft,11.67333,78.151455,6,2025-06-06 20:51,Petty theft near market area in Suramangalam Salem
+363,Harassment,11.666111,78.156647,6,2025-07-31 07:35,Sexual harassment reported near Suramangalam Salem (Chennai Women's Safety Survey 2025)
+364,Isolated Area,11.676911,78.161572,5,2025-02-09 14:52,Deserted stretch near Suramangalam Salem — women reported feeling unsafe after dark (21% survey)
+365,Harassment,11.667486,78.151168,7,2025-03-09 17:44,Sexual harassment reported near Suramangalam Salem (Chennai Women's Safety Survey 2025)
+366,Harassment,10.871106,78.696553,7,2024-03-11 21:02,Sexual harassment reported near Srirangam Trichy (Chennai Women's Safety Survey 2025)
+367,Poor Lighting,10.85808,78.683767,3,2025-10-18 19:23,Inadequate lighting near MRTS station at Srirangam Trichy — unsafe for women at night
+368,Isolated Area,10.869114,78.696108,4,2025-01-19 08:43,Deserted stretch near Srirangam Trichy — women reported feeling unsafe after dark (21% survey)
+369,Drug Activity,10.865657,78.687164,4,2024-07-01 18:33,Suspicious activity reported near Srirangam Trichy
+370,Theft,10.87086,78.694957,6,2024-01-24 15:29,Petty theft near market area in Srirangam Trichy
+371,Drug Activity,10.863711,78.694774,5,2024-09-10 20:22,Suspicious activity reported near Srirangam Trichy
+372,Theft,10.858216,78.695603,5,2024-04-25 07:51,Petty theft near market area in Srirangam Trichy
+373,Isolated Area,10.867457,78.69574,5,2024-01-17 13:13,Deserted stretch near Srirangam Trichy — women reported feeling unsafe after dark (21% survey)
+374,Harassment,10.864703,78.688743,5,2025-11-19 07:15,Sexual harassment reported near Srirangam Trichy (Chennai Women's Safety Survey 2025)
+375,Assault,10.798436,78.715749,6,2024-08-10 21:49,Physical altercation near Woraiyur Trichy — late-night incident (GCP Records)
+376,Robbery,10.800062,78.716628,7,2025-08-12 15:38,Bag snatching near textile/retail area in Woraiyur Trichy (GCP GIS-mapped hotspot)
+377,Poor Lighting,10.805094,78.71579,5,2024-05-26 23:33,Poor street lighting in Woraiyur Trichy — increased crime risk after 8PM
+378,Harassment,10.796808,78.712975,7,2025-08-28 22:58,Women's safety complaint near Woraiyur Trichy — eve-teasing at night (Chennai Police Records)
+379,Harassment,10.80286,78.720894,8,2024-02-18 23:41,Women's safety complaint near Woraiyur Trichy — eve-teasing at night (Chennai Police Records)
+380,Assault,10.804573,78.7171,7,2025-03-02 17:19,Physical altercation near Woraiyur Trichy — late-night incident (GCP Records)
+381,Burglary,10.804071,78.719576,6,2024-08-18 15:45,House break-in reported in Woraiyur Trichy — South Chennai high-risk zone (NCRB 2022)
+382,Harassment,10.806636,78.720998,7,2025-03-02 19:08,Women's safety complaint near Woraiyur Trichy — eve-teasing at night (Chennai Police Records)
+383,Burglary,10.79608,78.717284,6,2024-03-21 23:54,House break-in reported in Woraiyur Trichy — South Chennai high-risk zone (NCRB 2022)
+384,Drug Activity,10.80057,78.725271,6,2024-02-22 13:43,Substance abuse reported near Woraiyur Trichy (NCRB TN Drug Report 2023)
+385,Vehicle Theft,10.792633,78.713165,7,2025-08-24 21:35,Two-wheeler theft spike in Woraiyur Trichy — reported to GCP
+386,Harassment,10.795342,78.726513,7,2024-11-06 23:00,Women's safety complaint near Woraiyur Trichy — eve-teasing at night (Chennai Police Records)
+387,Harassment,10.807393,78.713877,6,2025-05-05 22:44,Women's safety complaint near Woraiyur Trichy — eve-teasing at night (Chennai Police Records)
+388,Vehicle Theft,10.795272,78.726642,7,2025-07-19 16:18,Two-wheeler theft spike in Woraiyur Trichy — reported to GCP
+389,Isolated Area,10.822538,78.697748,4,2024-09-24 17:32,Deserted stretch near KK Nagar Trichy — women reported feeling unsafe after dark (21% survey)
+390,Isolated Area,10.815578,78.707701,4,2025-04-25 16:58,Deserted stretch near KK Nagar Trichy — women reported feeling unsafe after dark (21% survey)
+391,Theft,10.819007,78.692731,5,2024-08-14 10:01,Petty theft near market area in KK Nagar Trichy
+392,Poor Lighting,10.828956,78.701266,4,2025-03-03 15:09,Inadequate lighting near MRTS station at KK Nagar Trichy — unsafe for women at night
+393,Theft,10.81768,78.701117,5,2024-09-08 21:35,Petty theft near market area in KK Nagar Trichy
+394,Poor Lighting,10.826214,78.699818,3,2025-10-19 21:29,Inadequate lighting near MRTS station at KK Nagar Trichy — unsafe for women at night
+395,Theft,10.82672,78.694708,6,2025-07-13 21:11,Petty theft near market area in KK Nagar Trichy
+396,Drug Activity,10.829316,78.700383,6,2024-03-17 07:48,Suspicious activity reported near KK Nagar Trichy
+397,Harassment,10.8162,78.702091,6,2024-03-10 10:00,Sexual harassment reported near KK Nagar Trichy (Chennai Women's Safety Survey 2025)
+398,Theft,8.727496,77.749267,6,2025-10-15 21:42,Petty theft near market area in Palayamkottai
+399,Isolated Area,8.720306,77.757126,3,2024-01-13 06:33,Deserted stretch near Palayamkottai — women reported feeling unsafe after dark (21% survey)
+400,Poor Lighting,8.73584,77.748574,4,2025-12-15 19:51,Inadequate lighting near MRTS station at Palayamkottai — unsafe for women at night
+401,Theft,8.734889,77.75669,4,2024-09-03 12:39,Petty theft near market area in Palayamkottai
+402,Drug Activity,8.733243,77.752577,5,2025-02-10 08:23,Suspicious activity reported near Palayamkottai
+403,Isolated Area,8.72924,77.764144,4,2024-08-19 15:43,Deserted stretch near Palayamkottai — women reported feeling unsafe after dark (21% survey)
+404,Harassment,8.736067,77.758698,7,2024-02-02 08:25,Sexual harassment reported near Palayamkottai (Chennai Women's Safety Survey 2025)
+405,Isolated Area,8.729043,77.749198,4,2024-01-10 11:05,Deserted stretch near Palayamkottai — women reported feeling unsafe after dark (21% survey)
+406,Isolated Area,8.730519,77.7536,4,2024-04-07 22:58,Deserted stretch near Palayamkottai — women reported feeling unsafe after dark (21% survey)
+407,Robbery,8.709283,77.76259,7,2025-08-03 18:02,Bag snatching near textile/retail area in Tirunelveli Town (GCP GIS-mapped hotspot)
+408,Robbery,8.720709,77.763089,9,2025-07-31 20:11,Bag snatching near textile/retail area in Tirunelveli Town (GCP GIS-mapped hotspot)
+409,Poor Lighting,8.706151,77.752015,4,2024-05-27 21:45,Poor street lighting in Tirunelveli Town — increased crime risk after 8PM
+410,Poor Lighting,8.720762,77.753488,4,2025-07-31 11:53,Poor street lighting in Tirunelveli Town — increased crime risk after 8PM
+411,Poor Lighting,8.716733,77.757349,4,2025-01-28 21:08,Poor street lighting in Tirunelveli Town — increased crime risk after 8PM
+412,Poor Lighting,8.717487,77.756713,5,2024-12-20 01:27,Poor street lighting in Tirunelveli Town — increased crime risk after 8PM
+413,Harassment,8.711349,77.761004,6,2025-09-01 17:49,Women's safety complaint near Tirunelveli Town — eve-teasing at night (Chennai Police Records)
+414,Drug Activity,8.716046,77.761237,6,2025-04-06 19:22,Substance abuse reported near Tirunelveli Town (NCRB TN Drug Report 2023)
+415,Vehicle Theft,8.71281,77.759575,6,2025-11-07 17:49,Two-wheeler theft spike in Tirunelveli Town — reported to GCP
+416,Vehicle Theft,8.718669,77.76011,6,2024-03-25 13:24,Two-wheeler theft spike in Tirunelveli Town — reported to GCP
+417,Assault,8.708368,77.754934,8,2025-01-04 03:00,Physical altercation near Tirunelveli Town — late-night incident (GCP Records)
+418,Drug Activity,8.711659,77.753016,7,2024-05-15 02:27,Substance abuse reported near Tirunelveli Town (NCRB TN Drug Report 2023)
+419,Burglary,8.714776,77.755229,8,2024-01-27 02:35,House break-in reported in Tirunelveli Town — South Chennai high-risk zone (NCRB 2022)
+420,Robbery,8.715469,77.753891,9,2025-01-29 00:26,Bag snatching near textile/retail area in Tirunelveli Town (GCP GIS-mapped hotspot)
